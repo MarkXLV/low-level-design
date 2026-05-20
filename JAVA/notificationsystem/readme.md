@@ -26,5 +26,5 @@ ENUM preference{
 
 
 ------
-create model -> crrate channel 9interface and inplementation -> crerate factory 
+create model -> create channel interface and implementation -> crerate factory 
 
